@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 const Header = () => {
   return (
-    <div style={{ color: "red" }}>
+    <div>
       <h1>Rick Sanchez</h1>
       <ul>
         <li>
