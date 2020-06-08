@@ -5,7 +5,8 @@ const AboutPage = () => {
   return (
     <div>
       <Layout>
-      <h1>I am a full-stack developer based in Virginia.</h1>
+      <h1>About Me.</h1>
+      <p>I am a full-stack developer, working with and React & Redux.</p>
       </Layout>
     </div>
   )
