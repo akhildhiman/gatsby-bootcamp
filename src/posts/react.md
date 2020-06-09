@@ -3,7 +3,7 @@ title: "Beginner's guid to React"
 date: "2020-04-15"
 ---
 
-This is the React crash course.
+_This is the React crash course._
 
 We'll learn:
 
