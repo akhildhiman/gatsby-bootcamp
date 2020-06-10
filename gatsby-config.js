@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: "Full-stack bootcamp",
+    title: "Full-Stack Bootcamp",
     author: "Rick Sanchez",
   },
   plugins: [
+    "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-source-contentful",
       options: {
