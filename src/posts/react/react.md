@@ -1,5 +1,5 @@
 ---
-title: "Beginner's guid to React"
+title: "Beginner's guide to React"
 date: "2020-04-15"
 ---
 
